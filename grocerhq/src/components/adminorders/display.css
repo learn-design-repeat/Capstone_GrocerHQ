@@ -1,0 +1,19 @@
+header {
+    padding: 1rem 0;
+  }
+  
+.product-detail-wrapper {
+    border: 1px solid gray;
+}
+
+.prod-image {
+    padding: 50px;
+}
+
+a { 
+    color: white;
+}
+
+.filter-category {
+    font-size: 1.5rem;
+}
